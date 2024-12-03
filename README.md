@@ -38,9 +38,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/AnshulBuxy/News-Summarization-Model.git
    cd News-Summarization-Model
-2. ```bash
-   pip install -r requirements.txt
-   pythob main.py
+
 
 ---
 ## Model Information
