@@ -43,6 +43,6 @@ Follow these steps to set up the project on your local machine:
    pythob main.py
 
 ---
-## Model Information
-### **Base Model:** Pegasus (Fine-Tuned)
-### **Dataset:** The model is fine-tuned using a Kaggle dataset containing various news articles.
+-## Model Information
+-### **Base Model:** Pegasus (Fine-Tuned)
+-### **Dataset:** The model is fine-tuned using a Kaggle dataset containing various news articles.
