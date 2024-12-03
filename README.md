@@ -27,7 +27,6 @@ A deep learning-based project designed to generate concise and coherent summarie
 1. **Data Input**: Input can be provided in the form of plain text or a URL pointing to a news article.
 2. **Preprocessing**: The text is tokenized and prepared for model input.
 3. **Summarization**: The Pegasus model generates a concise summary of the input article.
-4. **Output**: The summarized text is displayed or saved for further use.
 
 ---
 
@@ -39,3 +38,11 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/AnshulBuxy/News-Summarization-Model.git
    cd News-Summarization-Model
+2. ```bash
+   pip install -r requirements.txt
+   pythob main.py
+
+---
+## Model Information
+### **Base Model:** Pegasus (Fine-Tuned)
+### **Dataset:** The model is fine-tuned using a Kaggle dataset containing various news articles.
