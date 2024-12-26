@@ -18,7 +18,6 @@ A deep learning-based project designed to generate concise and coherent summarie
 - **Python**: The primary programming language used for implementation.
 - **Transformers Library**: Utilized for the Pegasus model, enabling advanced summarization capabilities.
 - **Hugging Face**: Framework for pre-trained model access and fine-tuning.
-- **Streamlit**: (Optional) For building an interactive user interface (if implemented).
 
 ---
 
